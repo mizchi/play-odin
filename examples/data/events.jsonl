@@ -1,0 +1,5 @@
+{"level":"info","duration_ms":12,"message":"started"}
+{"level":"warn","duration_ms":8}
+{"level":"error","duration_ms":30}
+{"level":"info","duration_ms":20}
+{"level":"warn","duration_ms":-1}

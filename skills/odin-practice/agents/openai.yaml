@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odin practice"
+  short_description: "Odin の構文・型・API・Wasm ビルドの落とし穴を避ける"
+  default_prompt: "$odin-practice を使って、手元の Odin 版で確認しながら実装・検証してください。"
